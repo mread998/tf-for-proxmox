@@ -13,9 +13,9 @@ An example shell script is included.  Just update and delete what you don't need
 
 With api token
 
-`export PM_API_TOKEN_ID="proxmox-user!proxmox-token-name"
+`export PM_API_TOKEN_ID="proxmox-user!proxmox-token-name"`
 
-export PM_API_TOKEN_SECRET="proxmox-generated-secret-goes-here"`
+`export PM_API_TOKEN_SECRET="proxmox-generated-secret-goes-here"`
 
 with username and password
 
